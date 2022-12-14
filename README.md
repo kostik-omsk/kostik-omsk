@@ -19,7 +19,14 @@ Junior Front-end Developer
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostik-omsk)](https://github.com/anuraghazra/github-readme-stats)
+- ✨ CodeWars
+
+
+![codewars](https://www.codewars.com/users/kostik-omsk/badges/small?theme=light)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kostik-omsk&theme=solarized_dark)
+
 
 
 <!--
