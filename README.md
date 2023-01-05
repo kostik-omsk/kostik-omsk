@@ -22,7 +22,7 @@ Junior Front-end Developer
 - ✨ The Level Up Challenge in CodeWars
 
 
-![codewars](https://www.codewars.com/users/kostik-omsk/badges/small?theme=light)
+![codewars](https://www.codewars.com/users/rsschool_c598c22c446c63b1/badges/small?theme=light)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kostik-omsk&theme=solarized_dark)
