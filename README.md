@@ -27,7 +27,7 @@ Junior Front-end Developer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kostik-omsk&theme=solarized_dark)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostik-omsk&theme=nord_bright)
 
 <!--
 **kostik-omsk/kostik-omsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
