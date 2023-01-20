@@ -1,8 +1,8 @@
 <h1 align="center">👋Hi, I’m Konstantin 👋</h1>
 
-Junior Front-end Developer
+Junior Front-end Developer 💻
 
-- 👀 i use:
+- 👀 i use: 
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ Junior Front-end Developer
 ![codewars](https://www.codewars.com/users/rsschool_c598c22c446c63b1/badges/small?theme=light)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kostik-omsk&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kostik-omsk&theme=solarized_dark)<img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b76112f063f1da875d7e4088c061365ca27ecd455ba5c&rid=giphy.gif&ct=g" width="200">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostik-omsk&theme=nord_bright)
 
