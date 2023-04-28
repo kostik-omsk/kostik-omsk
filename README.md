@@ -24,8 +24,9 @@ Junior Front-end Developer 💻
 
 ![codewars](https://www.codewars.com/users/rsschool_c598c22c446c63b1/badges/small?theme=light)
 
+![Metrics](https://metrics.lecoq.io/kostik-omsk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FOmsk)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kostik-omsk&theme=solarized_dark)<img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b76112f063f1da875d7e4088c061365ca27ecd455ba5c&rid=giphy.gif&ct=g" width="200">
+<img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b76112f063f1da875d7e4088c061365ca27ecd455ba5c&rid=giphy.gif&ct=g" width="200">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostik-omsk&theme=nord_bright)
 
