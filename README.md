@@ -12,17 +12,15 @@ Junior Front-end Developer 💻
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - 🌱 I’m currently learning ...
 
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 - ✨ The Level Up Challenge in CodeWars
 
 
-![codewars](https://www.codewars.com/users/rsschool_c598c22c446c63b1/badges/small?theme=light)
+![codewars](https://www.codewars.com/users/kostik-omsk/badges/large?theme=light)
 
 
 <img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b76112f063f1da875d7e4088c061365ca27ecd455ba5c&rid=giphy.gif&ct=g" width="200">
