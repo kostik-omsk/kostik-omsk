@@ -31,7 +31,11 @@ Junior Front-end Developer 💻
 ![codewars](https://www.codewars.com/users/kostik-omsk/badges/large?theme=light)
 
 
-<img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b76112f063f1da875d7e4088c061365ca27ecd455ba5c&rid=giphy.gif&ct=g" width="200">
+<!--<img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=790b76112f063f1da875d7e4088c061365ca27ecd455ba5c&rid=giphy.gif&ct=g" width="200"> -->
+
+<img src="https://media1.tenor.com/m/VDO612VHll0AAAAd/monkey-buisness.gif" width="300">
+
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostik-omsk&theme=nord_bright)
 
