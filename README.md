@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I’m Konstantin 👋</h1>
 
-Junior Front-end Developer 💻
+Front-end Developer 💻
 
 - 👀 i use: 
 
