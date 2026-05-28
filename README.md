@@ -2,8 +2,6 @@
 
 Front-end Developer 💻
 
-- 👀 i use: 
-
 <div style="margin-bottom: 20px;">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
